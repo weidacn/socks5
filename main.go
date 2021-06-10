@@ -1,6 +1,8 @@
 package main
 
-import "socks5"
+import (
+socks5 "github.com/haxii/socks5"
+)
 
 
 func main(){
